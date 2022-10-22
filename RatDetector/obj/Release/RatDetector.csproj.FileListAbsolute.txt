@@ -1,0 +1,7 @@
+D:\Downloads\src\RatDetector\bin\Release\RatDetector.exe
+D:\Downloads\src\RatDetector\bin\Release\RatDetector.pdb
+D:\Downloads\src\RatDetector\obj\Release\RatDetector.csproj.AssemblyReference.cache
+D:\Downloads\src\RatDetector\obj\Release\RatDetector.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\src\RatDetector\obj\Release\RatDetector.csproj.CoreCompileInputs.cache
+D:\Downloads\src\RatDetector\obj\Release\RatDetector.exe
+D:\Downloads\src\RatDetector\obj\Release\RatDetector.pdb
